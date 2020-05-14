@@ -1,0 +1,2 @@
+1. When I doing the flask. I have problem at create the python virtual, it cannot create at first time. But when I restart everything again, I can create it, I don't know why. Also, I have problem when I use the google API. It only can let me use it after create the consent screen. 
+2. Also, I have question about how to submit it. I don't know how much stuff I should submit in my-google folder. So I just submit the 13b example and virtualenvs folders. 
