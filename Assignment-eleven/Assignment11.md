@@ -1,0 +1,3 @@
+I plan to attendence the April 8th CDT: Evolution Working Group meeting.
+
+After Listening the podcast, I hearing a lot of stories of those people who are joing and supporting the open source software metrics. They all hearing about open source  differently. However, what the result is they are all interesting about open source and join the work of open source. I am really impressed about how open source intersted people. So I am also kind interst about open source. Open source is a very clear, effiency way of working as a group. Poeple are sharing idea in different way. Unlike the old way, a lot of people together and have million of idea and voice. Open source make all the ideas have in the real metrics.
